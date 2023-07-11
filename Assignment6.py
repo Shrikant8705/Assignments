@@ -1,13 +1,4 @@
-# 1)Create a function named ds with parameters roll_no and name.
-# 2)Add those parameters in the following data structures:
-# list, tuple, sets and dictionaries
-# 3) After adding values
-# change the values during runtime
-# 4)Delete these data structures
-
-def ds(name, r_no):
-    
-    # Assigning the initial values 
+def ds(name, r_no): 
 
     lst = [name,r_no]
     tup = (name,r_no)
